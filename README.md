@@ -15,3 +15,8 @@ Bu depoda Sadık Turan'ın HTML eğitimini takip ederken yaptığım çalışmal
 
 ##Proje Hakkında
 Brackest ile yapılmış basit bir projedir
+
+###Kullanıkan Teknolojiler
+Brackest
+####Bu Projede Öğrendiklerim
+-
