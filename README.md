@@ -18,5 +18,6 @@ Brackest ile yapılmış basit bir projedir
 
 ###Kullanıkan Teknolojiler
 Brackest
+
 ####Bu Projede Öğrendiklerim
--
+-Sirali ve Sirasiz etiket farkı ve etiketin içine daha fazla etiketi nasıl koyabilecegimizi ogrendim
