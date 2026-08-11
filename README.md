@@ -21,3 +21,5 @@ Brackest
 
 ####Bu Projede Öğrendiklerim
 -Sirali ve Sirasiz etiket farkı ve etiketin içine daha fazla etiketi nasıl koyabilecegimizi ogrendim
+#####Durum
+Düzenli olarak HTML öprenmeye devam ediyorum ve bunları aklımda kalmasını sağlıyorum.Yani şu anda bu konu cepte.
