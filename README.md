@@ -23,3 +23,13 @@ Brackest
 -Sirali ve Sirasiz etiket farkı ve etiketin içine daha fazla etiketi nasıl koyabilecegimizi ogrendim
 #####Durum
 Düzenli olarak HTML öprenmeye devam ediyorum ve bunları aklımda kalmasını sağlıyorum.Yani şu anda bu konu cepte.
+
+##For Turkish
+
+#Bicimlendirme-etiketi-alistirmasi
+yazilarin cekiciligini arttirmak icin kullandigimiz html etiketleridir
+
+##For English
+
+#Formatting-tag-exercise
+These are HTML tags that we use to enhance the appeal of text.
