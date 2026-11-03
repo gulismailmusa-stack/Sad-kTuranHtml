@@ -24,12 +24,21 @@ Brackest
 #####Durum
 Düzenli olarak HTML öprenmeye devam ediyorum ve bunları aklımda kalmasını sağlıyorum.Yani şu anda bu konu cepte.
 
+
+$$Div-span ve Bicimlendirme Etiketi
 ##For Turkish
 
-#Bicimlendirme-etiketi-alistirmasi
+#Bicimlendirme Etiketi
 yazilarin cekiciligini arttirmak icin kullandigimiz html etiketleridir
 
+#Div-span
+Menu ,artcle footer falan ogrenmemizi saglar
+
+$$Div-span and Formatting Tag
 ##For English
 
 #Formatting-tag-exercise
 These are HTML tags that we use to enhance the appeal of text.
+
+#Div-span
+It helps us learn about elements like menu, article, footer, and so on.
