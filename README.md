@@ -25,9 +25,11 @@ Brackest
 Düzenli olarak HTML öprenmeye devam ediyorum ve bunları aklımda kalmasını sağlıyorum.Yani şu anda bu konu cepte.
 
 
-$$Div-span,Tables ve Bicimlendirme Etiketi
+$$Div-span,Tables,iframe ve Bicimlendirme Etiketi
 ##For Turkish
 
+#Iframe
+farkli adresler kurmayi ogreten etiketi yazdim
 #Tables
 tablolari nasil kullanacagimizi row span columm witch gibi degerleri ogrenmemizi saglar
 
@@ -37,11 +39,13 @@ yazilarin cekiciligini arttirmak icin kullandigimiz html etiketleridir
 #Div-span
 Menu ,artcle footer falan ogrenmemizi saglar
 
-$$Div-span,Formatting-tag-exercise ve tables
+$$Div-span,Formatting-tag-exercise,iframe ve tables
 ##For English
 
 #Formatting-tag-exercise
 These are HTML tags that we use to enhance the appeal of text.
+#Iframe
+I wrote the tag that teaches how to set up different addresses.
 
 #Tables
 It enables us to learn how to use tables, including properties such as rowspan, column, and width.
