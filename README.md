@@ -25,7 +25,7 @@ Brackest
 Düzenli olarak HTML öprenmeye devam ediyorum ve bunları aklımda kalmasını sağlıyorum.Yani şu anda bu konu cepte.
 
 
-$$Div-span,Tables,iframe,links ve Bicimlendirme Etiketi
+$$Div-span,Tables,iframe,links,tables ve Bicimlendirme Etiketi
 ##For Turkish
 #links
 LİKLERİ KULLANMAYİ OGRETİR
@@ -34,6 +34,8 @@ farkli adresler kurmayi ogreten etiketi yazdim
 #Tables
 tablolari nasil kullanacagimizi row span columm witch gibi degerleri ogrenmemizi saglar
 
+#tables
+TABLO NASİL OLUSTURULUR ONU OGRENDİM
 #Bicimlendirme Etiketi
 yazilarin cekiciligini arttirmak icin kullandigimiz html etiketleridir
 
@@ -52,5 +54,7 @@ TEACHES HOW TO USE LINKS
 #Tables
 It enables us to learn how to use tables, including properties such as rowspan, column, and width.
 
+#tablolar
+TABLO NASİL OLUSTURULUR ONU OGRENDİM
 #Div-span
 It helps us learn about elements like menu, article, footer, and so on.
