@@ -25,7 +25,7 @@ Brackest
 Düzenli olarak HTML öprenmeye devam ediyorum ve bunları aklımda kalmasını sağlıyorum.Yani şu anda bu konu cepte.
 
 
-$$Div-span,Tables,iframe,links,tables ve Bicimlendirme Etiketi
+$$Div-span,Tables,iframe,links,tables,images ve Bicimlendirme Etiketi
 ##For Turkish
 #links
 LİKLERİ KULLANMAYİ OGRETİR
@@ -34,6 +34,8 @@ farkli adresler kurmayi ogreten etiketi yazdim
 #Tables
 tablolari nasil kullanacagimizi row span columm witch gibi degerleri ogrenmemizi saglar
 
+#images
+images etiketi src falan kullanmayi ogrendim
 #tables
 TABLO NASİL OLUSTURULUR ONU OGRENDİM
 #Bicimlendirme Etiketi
@@ -53,6 +55,9 @@ I wrote the tag that teaches how to set up different addresses.
 TEACHES HOW TO USE LINKS
 #Tables
 It enables us to learn how to use tables, including properties such as rowspan, column, and width.
+
+#images
+I learned how to use the images tag, source code, etc.
 
 #tablolar
 TABLO NASİL OLUSTURULUR ONU OGRENDİM
